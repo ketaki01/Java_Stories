@@ -41,6 +41,8 @@ Trip: "Mahindra XUV 500", Mumbai-Bangalore
 Output: Total Expense: 12000
 Trip: "Tata Skyline", AC, Mumbai-Bangalore
 Output: Total Expense: 11760
+
+
 Car rental:
 Story 2:
 Additional charges of 1.
@@ -52,6 +54,8 @@ Trip: Swift Diesel NON_AC, Pune-Mumbai, 7 Passengers
 Output: Total Expense: 2400
 Trip: "Tata Skyline", AC, Mumbai-Bangalore, 45
 Output: Total Expense: 20760
+
+
 Car rental:
 Story 3:
 Toll charges are applicable for specified destinations.
@@ -63,6 +67,8 @@ Output: Total Expense: 1900
 Trip: "Mahindra XUV 500", Mumbai-Bangalore Toll:100, 150, 7
 Passengers,
 Output: Total Expense: 12250
+
+
 Car rental:
 Story 4:
 Calculate total fuel expenses for the trip.
