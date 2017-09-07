@@ -1,4 +1,4 @@
-Car rental:
+Car rental: MAIN CLASS : VehicleRental.java
 You are tired of writing the code for many years and have decided to open a car rental
 business.
 For that you need a program which calculates the total expense for the trip.
@@ -43,7 +43,7 @@ Trip: "Tata Skyline", AC, Mumbai-Bangalore
 Output: Total Expense: 11760
 
 
-Car rental:
+
 Story 2:
 Additional charges of 1.
 5 rs/km/person are charged if number of passengers exceed the
@@ -56,7 +56,7 @@ Trip: "Tata Skyline", AC, Mumbai-Bangalore, 45
 Output: Total Expense: 20760
 
 
-Car rental:
+
 Story 3:
 Toll charges are applicable for specified destinations.
 
@@ -69,7 +69,7 @@ Passengers,
 Output: Total Expense: 12250
 
 
-Car rental:
+
 Story 4:
 Calculate total fuel expenses for the trip.
  Fule expense are not included in total expense.
