@@ -1,4 +1,6 @@
 Car rental: MAIN CLASS : VehicleRental.java
+
+
 You are tired of writing the code for many years and have decided to open a car rental
 business.
 For that you need a program which calculates the total expense for the trip.
